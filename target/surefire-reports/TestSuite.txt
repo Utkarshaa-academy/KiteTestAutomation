@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 2, Errors: 0, Skipped: 4, Time elapsed: 1.204 s <<< FAILURE! - in TestSuite
+setup(kite.qa.testScripts.DashboardPageTest)  Time elapsed: 0.895 s  <<< FAILURE!
+java.lang.NullPointerException
+	at kite.qa.testScripts.DashboardPageTest.setup(DashboardPageTest.java:29)
+
+setup(kite.qa.testScripts.LoginPageTest)  Time elapsed: 0.007 s  <<< FAILURE!
+java.lang.NullPointerException
+	at kite.qa.testScripts.LoginPageTest.setup(LoginPageTest.java:31)
+
